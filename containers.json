@@ -1,0 +1,76 @@
+{
+  "containers": [
+      {
+          "id": "a1b2c3d4e5f6",
+          "name": "job-runner-1",
+          "status": "Running",
+          "uptime": "2 days",
+          "cpu_usage": "3.2%",
+          "mem_usage": "200MB / 1GB",
+          "image": "crawler-image:1.5.0"
+      },
+      {
+          "id": "e5f6g7h8i9j0",
+          "name": "job-runner-5",
+          "status": "Running",
+          "uptime": "12 hours",
+          "cpu_usage": "5.0%",
+          "mem_usage": "320MB / 1GB",
+          "image": "crawler-image:1.5.0"
+      },
+      {
+          "id": "k1l2m3n4o5p6",
+          "name": "job-runner-11",
+          "status": "Running",
+          "uptime": "4 days",
+          "cpu_usage": "2.8%",
+          "mem_usage": "410MB / 2GB",
+          "image": "crawler-image:1.5.0"
+      },
+      {
+          "id": "p6q7r8s9t0u1",
+          "name": "job-runner-16",
+          "status": "Completed",
+          "uptime": "Completed",
+          "cpu_usage": "0%",
+          "mem_usage": "N/A",
+          "image": "crawler-image:1.5.0"
+      },
+      {
+          "id": "q7r8s9t0u1v2",
+          "name": "job-runner-17",
+          "status": "Completed",
+          "uptime": "Completed",
+          "cpu_usage": "0%",
+          "mem_usage": "N/A",
+          "image": "crawler-image:1.5.0"
+      },
+      {
+          "id": "r8s9t0u1v2w3",
+          "name": "job-runner-18",
+          "status": "Completed",
+          "uptime": "Completed",
+          "cpu_usage": "0%",
+          "mem_usage": "N/A",
+          "image": "crawler-image:1.5.0"
+      },
+      {
+          "id": "t0u1v2w3x4y5",
+          "name": "job-runner-20",
+          "status": "Completed",
+          "uptime": "Completed",
+          "cpu_usage": "0%",
+          "mem_usage": "N/A",
+          "image": "crawler-image:1.5.0"
+      },
+      {
+          "id": "v2w3x4y5z6a7",
+          "name": "job-runner-22",
+          "status": "Exited",
+          "uptime": "N/A",
+          "cpu_usage": "0%",
+          "mem_usage": "N/A",
+          "image": "crawler-image:1.5.0"
+      }
+  ]
+}

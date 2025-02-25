@@ -1,0 +1,7 @@
+{
+    "notifications": [
+        { "id": 1, "message": "New user signed up" },
+        { "id": 2, "message": "Server maintenance scheduled" },
+        { "id": 3, "message": "New comment on your post" }
+    ]
+}

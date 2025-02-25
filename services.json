@@ -1,0 +1,37 @@
+{
+    "services": [
+        {
+            "name": "PostgreSQL",
+            "status": "Running",
+            "version": "15.3",
+            "uptime": "12 days",
+            "active_connections": 120,
+            "max_connections": 500,
+            "memory_usage": "1.5GB / 8GB",
+            "disk_usage": "250GB / 1TB",
+            "port": 5432
+        },
+        {
+            "name": "Elasticsearch",
+            "status": "Running",
+            "version": "8.5.2",
+            "uptime": "8 days",
+            "nodes": 3,
+            "cluster_status": "Green",
+            "heap_memory_usage": "3.2GB / 16GB",
+            "disk_usage": "500GB / 2TB",
+            "port": 9200
+        },
+        {
+            "name": "Redis",
+            "status": "Running",
+            "version": "7.0.9",
+            "uptime": "15 days",
+            "connected_clients": 85,
+            "memory_usage": "512MB / 4GB",
+            "key_count": 25000,
+            "cache_hit_ratio": "97%",
+            "port": 6379
+        }
+    ]
+}
