@@ -30,8 +30,8 @@
       {
           "id": "p6q7r8s9t0u1",
           "name": "job-runner-16",
-          "status": "Completed",
-          "uptime": "Completed",
+          "status": "Paused",
+          "uptime": "Paused",
           "cpu_usage": "0%",
           "mem_usage": "N/A",
           "image": "crawler-image:1.5.0"
@@ -39,8 +39,8 @@
       {
           "id": "q7r8s9t0u1v2",
           "name": "job-runner-17",
-          "status": "Completed",
-          "uptime": "Completed",
+          "status": "Paused",
+          "uptime": "Paused",
           "cpu_usage": "0%",
           "mem_usage": "N/A",
           "image": "crawler-image:1.5.0"
@@ -48,8 +48,8 @@
       {
           "id": "r8s9t0u1v2w3",
           "name": "job-runner-18",
-          "status": "Completed",
-          "uptime": "Completed",
+          "status": "Paused",
+          "uptime": "Paused",
           "cpu_usage": "0%",
           "mem_usage": "N/A",
           "image": "crawler-image:1.5.0"
@@ -57,8 +57,8 @@
       {
           "id": "t0u1v2w3x4y5",
           "name": "job-runner-20",
-          "status": "Completed",
-          "uptime": "Completed",
+          "status": "Paused",
+          "uptime": "Paused",
           "cpu_usage": "0%",
           "mem_usage": "N/A",
           "image": "crawler-image:1.5.0"
